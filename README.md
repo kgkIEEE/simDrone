@@ -1,2 +1,2 @@
 # simDrone
-simulate drones
+Simple approach to simulating collaborative drones for 
